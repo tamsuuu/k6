@@ -1,0 +1,6 @@
+
+# ignore environment variables
+environment_variables.js
+
+# node_modules
+node_modules
